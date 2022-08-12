@@ -3,6 +3,7 @@
 Project for an university course. 
 
 Console based chess game
+
 Year: 2018
 
 Language: italian
